@@ -1,0 +1,43 @@
+h1{
+    color:blue;
+    background-color:white;
+    font-family: Ariel; 
+    text-align:center;
+}/*for the header*/
+
+span.label {color:brown;
+            width:30;
+            height:16;
+            text-align:center;
+            margin-top:0;
+            background:yellow;
+            font:bold 13px Arial;
+            
+}/*The label*/
+span.c1 {cursor:hand;
+         color:blue;
+         width:30;
+         height:16;
+         text-align:center;
+         margin-top:0;
+         background:blue;
+         font:bold 13px Arial
+}/*the weekdays of this month*/
+span.c2 {cursor: hand;
+         color:red;
+         width:30;
+         height:16;
+         text-align:center;
+         margin-top:0;
+         background:green;
+         font:bold 13px Arial
+}/*weekends in this week*/
+span.c3 {cursor:hand;
+         color:green;
+         width:30;
+         height:16;
+         text-align:center;
+         margin-top:0;
+         background:brown;
+         font:bold 12px Arial
+}/*all days not in this week*/

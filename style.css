@@ -1,0 +1,73 @@
+body{
+	background-image: url('images/background.jpg');
+	background-attachment: fixed;
+	background-position: center;
+	background-repeat: no-repeat;
+	min-height: 500vh;
+	min-width: 100%;
+	float: left;
+	margin: 0px 0px 0px 0px;
+}
+#Title{
+	min-height: 100vh;
+	float = top left;
+	opacity: 1.0;
+}
+#Title h1{
+	text-align: center;
+	font-size: 10vh;
+	color: red;
+	margin: 0px 0px 0px 0px;
+}
+#AboutUs{
+	background-color: blue;
+	min-height: 100vh;
+	float = top left;
+	opacity: 1.0;
+	margin-bottom: 0px;
+}
+#AboutUs h1{
+	text-align: center;
+	font-size: 10vh;
+	color: red;
+	margin: 0px 0px 0px 0px;
+}
+#UpcomingEvent{
+	background-color: green;
+	min-height: 100vh;
+	float = top left;
+	opacity: 1.0;
+	margin-bottom: 0px;
+}
+#UpcomingEvent h1{
+	text-align: center;
+	font-size: 10vh;
+	color: red;
+	margin: 0px 0px 0px 0px;
+}
+#Calendar{
+	background-color: purple;
+	min-height: 100vh;
+	float = top left;
+	opacity: 1.0;
+	margin-bottom: 0px;
+}
+#Calendar h1{
+	text-align: center;
+	font-size: 10vh;
+	color: red;
+	margin: 0px 0px 0px 0px;
+}
+#Project{
+	background-color: orange;
+	min-height: 100vh;
+	float = top left;
+	opacity: 1.0;
+	margin-bottom: 0px;
+}
+#Project h1{
+	text-align: center;
+	font-size: 10vh;
+	color: red;
+	margin: 0px 0px 0px 0px;
+}
